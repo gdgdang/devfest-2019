@@ -1,56 +1,81 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name":"Niraj Bhusal",
+        "designation":"Founder/Organizer",
+        "twitter":"https://twitter.com/nrjbhusal",
+        "linkedin":"https://np.linkedin.com/in/nrjbhusal",
+        "github":"",
+        "facebook":"https://www.facebook.com/nrjbhusal",
+        "profileImage":"nbhusal.png",
+        "website":"https://nirajbhusal.com.np/"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Upama Sharma",
+        "designation":"Women Lead/Organizer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "linkedin":"",
+        "github":"",
+        "facebook":"https://www.facebook.com/upama.bhusal.58",
+        "profileImage":"usharma.png",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Abhishek Acharya",
+        "designation":"Co-Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"https://github.com/Laciann",
+        "facebook":"https://www.facebook.com/nextdaytunes",
+        "profileImage":"aacharya.jpg",
+        "website":"https://abhishekacharya.com.np"
+    },
+    {
+        "name":"Abhishek Pandey",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/avizoetic",
+        "linkedin":"https://www.linkedin.com/in/abhishek-pandey-3380b8135/",
+        "github":"https://github.com/avizoetic",
+        "facebook":"https://www.facebook.com/nextdaytunes",
+        "profileImage":"apandey.png",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Nobel Dahal",
+        "designation":"Technology Lead",
+        "twitter":"https://twitter.com/coderkoala",
+        "linkedin":"https://www.linkedin.com/in/nobel-dahal-a5774a188/",
+        "github":"https://github.com/coderkoala",
+        "profileImage":"daha.jpg",
+        "website":"https://nobeldahal.ml"
+    },
+    {
+        "name":"Nabin Bhusal",
+        "designation":"Committee",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "facebook":"https://www.facebook.com/naveen.vusal",
+        "profileImage":"abusal.png",
+        "website":""
+    },
+    {
+        "name":"Roshan Acharya",
+        "designation":"Committee",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "facebook":"https://www.facebook.com/profile.php?id=100006035956483",
+        "profileImage":"racharya.png",
+        "website":""
+    },
+    {
+        "name":"Kshitiz Rimal",
+        "designation":"Advisor",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/kshitiz-rimal",
+        "github":"",
+        "facebook":"https://www.facebook.com/kshitizrimal",
+        "profileImage":"krimal.png",
         "website":""
     }
 ]

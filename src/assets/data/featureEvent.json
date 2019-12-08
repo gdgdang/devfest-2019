@@ -8,14 +8,14 @@
     },
     "EventTime":{
         "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "EndTime":"5:00 PM"
     },
     "EventVenue":"Hotel Doko, Ghorahi 22400, Dang",
     "EventVenueMapLink":"https://goo.gl/maps/cLrMwAZkpkQ454eHA",
     "EventWebsite":"https://gdgdang.org/",
     "EventDescription":"Google Developers Group Dang is an initiative to concentrate the efforts of many developers in and around Dang to learn, share and get productive using the various Google products.",
     "MeetupLink":"https://www.meetup.com/gdgbirgunj/events/265061686/",
-    "RegistrationLink":"#",
-    "FBEventPageURL":"s"
+    "RegistrationLink":"https://forms.gle/qf8i8vByj6uotXim7",
+    "FBEventPageURL":"https://www.facebook.com/GoogleDevelopersDang/"
 }
 
