@@ -75,7 +75,7 @@
   // import wtmInfo from '@/components/home/wtmInfo'
   import partners from '@/components/home/partners'
   import featureEvent from '@/components/home/featureEvent'
-  import schedule from '@/components/home/schedule'
+  // import schedule from '@/components/home/schedule'
 
   export default {
     components: {
