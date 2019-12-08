@@ -1,56 +1,38 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Niraj Bhusal",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Abhishek Acharya",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Abhishek Pandey",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Nobel Dahal",
+        "designation":"Event Organizer",
+        "twitter":"https://www.twitter.com/coderkoala",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/coderkoala",
         "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "website":"https://nobeldahal.ml"
     }
 ]
