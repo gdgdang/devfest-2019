@@ -27,7 +27,7 @@
               to="/registration"
       >
         <span>Registration</span>
-        <v-icon>rounded_corner</v-icon>
+        <v-icon>mail</v-icon>
       </v-btn>
 
       <v-btn
