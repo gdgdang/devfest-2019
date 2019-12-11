@@ -68,7 +68,7 @@
         >
           <v-card-title class="mb-0">
             <div>
-              <p class="google-font mb-0" style="font-size:130%">{{ item.name | summery(25) }}</p>
+              <p class="google-font mb-0" style="font-size:130%">{{ item.name | summery(19) }}</p>
               <p class="google-font mt-1 mb-0" style="font-size:110%">
                 <v-icon small>insert_invitation</v-icon>
                 {{item.local_date | dateFilter}}
