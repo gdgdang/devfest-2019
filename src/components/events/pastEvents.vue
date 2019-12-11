@@ -148,7 +148,7 @@ export default {
     },
     filters:{
         summery: (val,num)=>{
-            return val.substring(0,num)+".."
+            return val.substring(0,num)
         },
 
         dateFilter: (value)=>{

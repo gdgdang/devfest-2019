@@ -22,6 +22,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/registration',
+      name: 'registration',
+      component: () => import('./views/Registration.vue')
+    },
+    {
       path: '/home',
       name: 'home',
       component: Home

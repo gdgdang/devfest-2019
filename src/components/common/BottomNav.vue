@@ -20,6 +20,17 @@
       </v-btn>
 
       <v-btn
+              color="#518FF5"
+              flat
+              value="registration"
+              router
+              to="/registration"
+      >
+        <span>Registration</span>
+        <v-icon>mail</v-icon>
+      </v-btn>
+
+      <v-btn
         color="#518FF5"
         flat
         value="events"
@@ -77,6 +88,7 @@
         bottomNav: 'recent',
         items: [
             { title: 'Home', icon: 'dashboard', route:"/home" },
+            { title: 'Registration', icon: 'dashboard', route:"/registration" },
             { title: 'Attending', icon: 'rounded_corner', route:"/attending" },
             { title: 'Sessions', icon: 'toc', route:"/sessions" },
             { title: 'Speakers', icon: 'group', route:"/speakers" }
